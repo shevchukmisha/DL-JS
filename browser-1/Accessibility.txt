@@ -1,0 +1,59 @@
+Аудит сайту https://www.worldsciencefestival.com/
+
+1. Час завантаження  - 1.54s
+2. Помилки
+Failed to set referrer policy: The value '' is not one of 'no-referrer', 'no-referrer-when-downgrade', 'origin', 'origin-when-cross-origin', 'same-origin', 'strict-origin', 'strict-origin-when-cross-origin', or 'unsafe-url'. The referrer policy has been left unchanged.
+
+(index):258 GET https://connect.facebook.net/en_US/fbevents.js net::ERR_BLOCKED_BY_CLIENT
+
+3. Обсяг сайту - 8.3 MB
+4. Performance - 37 
+Файли - https://www.worldsciencefestival.com/wp-includes/js/wp-embed.min.js?ver=0137a9f2b3fecdf6db8b2e7a8912388b
+https://www.worldsciencefestival.com/wp-includes/js/comment-reply.min.js?ver=0137a9f2b3fecdf6db8b2e7a8912388b
+https://www.worldsciencefestival.com/wp-content/themes/world-science-festival/images/logo.png
+https://www.worldsciencefestival.com/wp-content/themes/world-science-festival/images/sharing/youtube.png
+https://www.worldsciencefestival.com/wp-content/themes/world-science-festival/images/sharing/facebook.png
+https://www.worldsciencefestival.com/wp-content/themes/world-science-festival/images/sharing/twitter.png
+https://www.worldsciencefestival.com/wp-content/themes/world-science-festival/fonts/2E8150_4_0.woff2
+https://www.worldsciencefestival.com/wp-content/themes/world-science-festival/images/nav-link-bottom.png
+https://www.worldsciencefestival.com/wp-content/themes/world-science-festival/images/nav-bg-top.png
+
+Найдовше (500 мс) завантажуються вищеподані файли. Потрібно їх мінімізувати та компресувати
+
+5. SEO - 91 
+Це хороший показник, однак, варто додати meta description.
+
+
+
+Аудит сайту https://www.world.rugby/
+1. Час завантаження  - 4.2s
+2. Помилки
+GET https://www.world.rugby/resources/prod/v8.4.2/i/elements/rwc-thumbnail-curve.png 403
+(index):2740 GET https://connect.facebook.net/en_US/fbevents.js net::ERR_BLOCKED_BY_CLIENT
+(index):2766 GET https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js net::ERR_BLOCKED_BY_CLIENT
+GET https://www.world.rugby/resources/prod/v8.4.2/fonts/webbelliscup-bold-webfont.woff2 net::ERR_ABORTED 403
+GET https://www.world.rugby/resources/prod/v8.4.2/fonts/webbelliscup-bold-webfont.woff net::ERR_ABORTED 403
+
+Warning
+Deprecation warning: use moment.updateLocale(localeName, config) to change an existing locale. moment.defineLocale(localeName, config) should only be used for creating a new locale See http://momentjs.com/guides/#/warnings/define-locale/ for more info.
+A cookie associated with a cross-site resource at http://google.com/ was set without the `SameSite` attribute. It has been blocked, as Chrome now only delivers cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://google.com/ was set without the `SameSite` attribute. It has been blocked, as Chrome now only delivers cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://www.google.com/ was set without the `SameSite` attribute. It has been blocked, as Chrome now only delivers cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://google.com.ua/ was set without the `SameSite` attribute. It has been blocked, as Chrome now only delivers cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://google.com.ua/ was set without the `SameSite` attribute. It has been blocked, as Chrome now only delivers cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://syndication.twitter.com/ was set without the `SameSite` attribute. It has been blocked, as Chrome now only delivers cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at https://twitter.com/ was set without the `SameSite` attribute. It has been blocked, as Chrome now only delivers cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+(index):1 A cookie associated with a cross-site resource at http://twitter.com/ was set without the `SameSite` attribute. It has been blocked, as Chrome now only delivers cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+
+3. Обсяг сайту -8.9Mb
+4. Performance - 81
+Файли - 
+https://widget.stackla.com/widget/api?page=1&ttl=60&filter_id=21840&domain=rugbyworldcup2015.stackla.com&tags_grouped_as=&data_tags=&search=&geohash=&tile_id=&tag_group=&available_products_only=&wid=5ad06e458543c - 2.04s
+https://assetscdn.stackla.com/media/js/widget/horizontal-fluid-embed.js?_=1604387109787 - 1.26s
+https://trackla.stackla.com/ - 896ms
+
+
+Найдовше завантажуються вищеподані файли. Потрібно їх мінімізувати та компресувати
+
+5. SEO - 90
+Це хороший показник, однак, варто додати meta description.
